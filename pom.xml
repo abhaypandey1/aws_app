@@ -30,6 +30,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>aws_app</finalName>
+    <finalName>aws_application</finalName>
   </build>
 </project>
