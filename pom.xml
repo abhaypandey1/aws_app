@@ -14,11 +14,6 @@
 		<url>http://13.235.104.113:8081/repository/abhayrelease//</url>
 	</repository>
 	
-	<snapshotRepository>
-		<id>nexus</id>
-		<name>Ashok IT Snapshots Nexus Repo</name>
-		<url>http://13.235.104.113:8081/repository/abhaysnapshot//</url>
-	</snapshotRepository>	
 </distributionManagement>
 
   <dependencies>
