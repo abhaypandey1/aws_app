@@ -7,16 +7,8 @@
   <version>1.0-Release</version>
   <name>aws_app Maven Webapp</name>
   <url>http://maven.apache.org</url>
- <distributionManagement>  
-	<repository>
-		<id>nexus</id>
-		<name>Ashok IT Releases Nexus Repo</name>
-		<url>http://13.235.104.113:8081/repository/abhayrelease//</url>
-	</repository>
-	
-</distributionManagement>
-
-  <dependencies>
+ 
+ <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>   
